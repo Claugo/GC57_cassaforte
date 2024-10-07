@@ -12,8 +12,6 @@ A questo programma viene abbinato un programma  attrezzi_cc2 che mi permette di 
 
 Il programma ChatCriptata utilizza la chiave GC57 e ha al suo interno la creazione di chiavi che vengono utilizzate da due computer collegati sulla stessa rete. Lo scambio di chiavi può avvenire in svariati modi e questo permette di avere una connessione sempre aggiornata a nuove chiavi di codifica.. Come nei precedenti programmi i dati delle chiavi si troveranno su USB
 
-Il programma TestCampo crea le chiavi per i due programmi CassaCriptata e CassaCriptata2, e  memorizza i dati sulla chiavetta USB. Nel caso di sostituzione o ricodifica dei dati, nel programma CassaCriptata2,  TestCampo dispone di un salvataggio a parte che crea una nuova chiave in un file S… il quale viene poi utilizzato da attrezzi_cc2 per modificare la codifica sostituendo la chiave vecchia con quella nuova
-
 Questa è una panoramica generica sui programmi caricati ma se avete bisogno di ulteriori chiarimenti potete scrivere in discussione e non mancherò di rispondere.
 
 Inoltre su youtube, a questi indirizzi, troverete due video inerenti a questi programmi, che probabilmente non saranno aggiornati con le versioni caricate qui, ma che vi daranno una idea di come si usano, e inoltre verrà mostrato il funzionamento dell’algoritmo GC57      https://youtu.be/s5Roi4QYOOs   https://youtu.be/Ak5GR7qtKM8      
